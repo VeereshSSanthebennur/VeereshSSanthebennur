@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VeereshSSanthebennur(https://github.com/VeereshSSanthebennur)
+- 👋 Hi, I’m [Veeresh](https://github.com/VeereshSSanthebennur)
 - 👀 I’m interested in Treking/Hiking and Travelling
 - 🌱 I’m currently learning Front End Technologies
 - 💞️ I’m looking to collaborate on ASP.Net Core Development
